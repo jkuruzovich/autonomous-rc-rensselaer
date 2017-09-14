@@ -1,16 +1,14 @@
 # Autonomous RC Car@Rensselaer
 *This proposal is to be submitted to the Burt Swersey Challenge Studio Call for Proposals, Due Oct15, 2017*
 
-https://www.dropbox.com/s/ehl6jfmq7dkx318/Lemelson-RFP%20v03.pdf?dl=0
-
-
-[https://www.dropbox.com/s/ehl6jfmq7dkx318/Lemelson-RFP%20v03.pdf?dl=0](https://www.dropbox.com/s/ehl6jfmq7dkx318/Lemelson-RFP%20v03.pdf?dl=0) 
+[https://www.dropbox.com/s/ehl6jfmq7dkx318/Lemelson-RFP%20v03.pdf?dl=0](https://www.dropbox.com/s/ehl6jfmq7dkx318/Lemelson-RFP%20v03.pdf?dl=0)
 
 ## **Team**
 ----------
 
 Jason Kuruzovich (Faculty)
-<insert your name here>
+
+-insert your name here
 
 
 ## **Problem Statement**
@@ -20,22 +18,22 @@ Self-driving cars are about to change the world, transforming everything from co
 
 These benefits have made the demand for self-driving car engineers staggering.  However, because self-driving cars require mechanical systems, deep learning, hardware, sensors innovations, traditional technical education at places other than a few institutions have been unable to incorporate the wide array of technologies and skills required for these complex systems into traditional academic preparation.
 
-In order to allow autonomous vehicles to have the safety and economic impact on society we need to improve the access to opportunities to incorporate these systems into formal and informal education. 
+In order to allow autonomous vehicles to have the safety and economic impact on society we need to improve the access to opportunities to incorporate these systems into formal and informal education.
 
 ## **Solution Approach**
 ----------
 
-Rensselaer has a long history of integrative education through hands-on interdisciplinary project teams around transportation, with existing groups including  [RPI formula Hybrid](https://urchinz.github.io/FH_Web/), [RPI ChemE Car Team](http://union.rpi.edu/clubs/academic-professional/606-cheme-car-team), [Rensselaer Electric Vehicle](http://union.rpi.edu/clubs/hobby-special-interest/187-rensselaer-electric-vehicle), and [Rensselaer Motorsports](http://union.rpi.edu/clubs/hobby-special-interest/16-rensselaer-motorsport) just to name a few.  
+Rensselaer has a long history of integrative education through hands-on interdisciplinary project teams around transportation, with existing groups including  [RPI formula Hybrid](https://urchinz.github.io/FH_Web/), [RPI ChemE Car Team](http://union.rpi.edu/clubs/academic-professional/606-cheme-car-team), [Rensselaer Electric Vehicle](http://union.rpi.edu/clubs/hobby-special-interest/187-rensselaer-electric-vehicle), and [Rensselaer Motorsports](http://union.rpi.edu/clubs/hobby-special-interest/16-rensselaer-motorsport) just to name a few.
 
-**This proposal outlines a plan for the development of an Autonomous RC Car group at Rensselaer, with the ultimate goal of hosting the first** ***International Intercollegiate Autonomous RC Racing Event*** **right here in Troy, NY at** [**Full Throttle RC Park**](http://www.fullthrottlercpark.com)**.**  
+**This proposal outlines a plan for the development of an Autonomous RC Car group at Rensselaer, with the ultimate goal of hosting the first** ***International Intercollegiate Autonomous RC Racing Event*** **right here in Troy, NY at** [**Full Throttle RC Park**](http://www.fullthrottlercpark.com)**.**
 
 There are four existing projects which represent powerful technological infrastructure which can facilitate great access to Autonomous Vehicle Education.  These include the [Microsoft AirSim Project](https://github.com/Microsoft/AirSim), [Ardupilot Rover](http://ardupilot.org/rover/), [MIT Racecar](https://mit-racecar.github.io/hardware/),  and [f1/10](http://f1tenth.org).  While each of these projects incorporates potential technical innovations, by establishing a group with collective intelligence in each we believe that we will be able to establish a solid platform of open software and hardware which can facilitate an intercollegiate competition.
 
-*Microsoft AirSim.* The Microsoft AirSim project will provide the foundational  simulated environment in which students can learn concepts even if they don’t have access to the hardware.  Built on the Unreal Gaming Engine, the AirSim project provides a realistic environment for training drones and ground based vehicles.  However, a limitation is that there is no clear way of linking the AirSim software to RC vehicles.  
+*Microsoft AirSim.* The Microsoft AirSim project will provide the foundational  simulated environment in which students can learn concepts even if they don’t have access to the hardware.  Built on the Unreal Gaming Engine, the AirSim project provides a realistic environment for training drones and ground based vehicles.  However, a limitation is that there is no clear way of linking the AirSim software to RC vehicles.
 
 *Ardupilot Rover.  The* Ardupilot Rover project incorporates GPS and route planning for complex route navigation, with control situated at a base station.  The system also works directly with an RC transmitter, which can be used to incorporate *human-in-the-loop* training. While powerful, the lack of onboard computer limits the degree to which high bandwidth data can effectively be used as a control.
 
-*MIT Racecar.* The MIT racecar incorporates the latest hardware and sensor technology, incorporating both a NVIDIA Jetson GPU unit as well as LIDAR sensor technology.  These technologies (along with a few others) facilitate rapid steering and response to obstacles.  However, unlike the Ardupilot Rover there is not GPS for Route planning or incorporation of controller for *human-in-the-loop* training.    
+*MIT Racecar.* The MIT racecar incorporates the latest hardware and sensor technology, incorporating both a NVIDIA Jetson GPU unit as well as LIDAR sensor technology.  These technologies (along with a few others) facilitate rapid steering and response to obstacles.  However, unlike the Ardupilot Rover there is not GPS for Route planning or incorporation of controller for *human-in-the-loop* training.
 
 **Table 1. Summary of Existing Projects and Capabilities**
 
@@ -52,16 +50,16 @@ There are four existing projects which represent powerful technological infrastr
 ## **Project Plan**
 ----------
 
-While the vision is for Rensselaer impact on global autonomous vehicle education, the goals of the *Burt Swersey Challenge Studio* proposal are to create community of students, faculty, external mentors, and organizations with access to resources enabling autonomous vehicle education through the use of RC cars @Rensselaer.  
+While the vision is for Rensselaer impact on global autonomous vehicle education, the goals of the *Burt Swersey Challenge Studio* proposal are to create community of students, faculty, external mentors, and organizations with access to resources enabling autonomous vehicle education through the use of RC cars @Rensselaer.
 
-Plan 
+Plan
 TBD
 
 
 
 ## **Budget**
 
-The budget allows for the creation of 2 1/10th scale 
+The budget allows for the creation of 2 1/10th scale
 
 
 | Item                                      | Quanity | Cost       | Total  |                                                                                                                                                                                                                                                |
@@ -87,6 +85,3 @@ The budget allows for the creation of 2 1/10th scale
 | Unbudgeted Hardware Allowance (10%)       |         | $0         | $783   |                                                                                                                                                                                                                                                |
 | Food Support for Team Meetings            |         | $1,200     | $1,200 |                                                                                                                                                                                                                                                |
 |                                           |         | **Total:** | $9,809 |                                                                                                                                                                                                                                                |
-
-
-
